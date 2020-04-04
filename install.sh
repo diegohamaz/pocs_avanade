@@ -9,9 +9,9 @@ npm install koa
 npm install koa2
 npm install n
 npm install total.js
-npm install adonis
 npm install -g @adonisjs/cli
 npm install fastify
+npm audit fix
 adonis new yardstick
 cp yardstick-changes/app/Http/kernel.js yardstick/app/Http/kernel.js
 cp yardstick-changes/app/Http/routes.js yardstick/app/Http/routes.js
