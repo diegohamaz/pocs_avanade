@@ -1,5 +1,6 @@
 echo adonis.js >> results.txt ;
 cd yardstick;
+npm install;
 npm run serve:dev & sleep 10;
 cd ..;
 ab -k -n 50000 -c 100 -t 20 http://127.0.0.1:3333/ | grep "Requests per second:" >> results.txt ;
