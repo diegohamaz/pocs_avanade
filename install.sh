@@ -9,7 +9,8 @@ npm install koa
 npm install koa2
 npm install n
 npm install total.js
-npm i -g @adonisjs/cli
+npm install adonis
+npm install -g @adonisjs/cli
 npm install fastify
 adonis new yardstick
 cp yardstick-changes/app/Http/kernel.js yardstick/app/Http/kernel.js
