@@ -1,5 +1,50 @@
-adonis.js
-fastify
-adonis.js
-adonis.js
-adonis.js
+------------------------------------
+adonis.js test:
+Requests per second:    3183.57 [#/sec] (mean)
+fastify test:
+Requests per second:    1305.60 [#/sec] (mean)
+express test:
+Requests per second:    1243.62 [#/sec] (mean)
+hapi test:
+node_rawhttp test:
+Requests per second:    1445.03 [#/sec] (mean)
+restify test:
+Requests per second:    1435.89 [#/sec] (mean)
+koa2 test:
+Requests per second:    1397.19 [#/sec] (mean)
+total.js
+Requests per second:    1397.44 [#/sec] (mean)
+------------------------------------
+adonis.js test:
+Requests per second:    3115.28 [#/sec] (mean)
+fastify test:
+Requests per second:    1471.45 [#/sec] (mean)
+express test:
+Requests per second:    1454.13 [#/sec] (mean)
+hapi test:
+Requests per second:    1463.87 [#/sec] (mean)
+node_rawhttp test:
+Requests per second:    1442.19 [#/sec] (mean)
+restify test:
+Requests per second:    1491.99 [#/sec] (mean)
+koa2 test:
+Requests per second:    1488.53 [#/sec] (mean)
+total.js
+Requests per second:    1501.41 [#/sec] (mean)
+------------------------------------
+adonis.js test:
+Requests per second:    3262.82 [#/sec] (mean)
+fastify test:
+Requests per second:    1398.95 [#/sec] (mean)
+express test:
+Requests per second:    1428.90 [#/sec] (mean)
+hapi test:
+Requests per second:    1412.25 [#/sec] (mean)
+node_rawhttp test:
+Requests per second:    1435.28 [#/sec] (mean)
+restify test:
+Requests per second:    1429.01 [#/sec] (mean)
+koa2 test:
+Requests per second:    1478.19 [#/sec] (mean)
+total.js
+Requests per second:    1532.68 [#/sec] (mean)
